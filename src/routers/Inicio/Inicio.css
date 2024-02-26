@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&display=swap');
+
+.inicio{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 1150px;
+    height: 945px;
+    margin: 0px;
+    font-family: 'Rajdhani', sans-serif;
+    justify-content: space-around;
+
+}
+h1{
+    font-size: 140px;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-size: 22px;
+}
+
+@media screen and (max-width: 1180px){
+    .inicio {
+        flex-direction: column;
+        width: 90%;
+        height: auto;
+        background-color: aqua;
+}}

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600&display=swap');
+.contact{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 1450px;
+    height: 885px;
+    margin: 30px;
+    font-family: 'Rajdhani', sans-serif;
+}
+h1{
+    font-size: 140px;
+}
+h4{
+    font-size: 30px;
+}
+p{
+    font-size: 22px;
+}
